@@ -90,7 +90,7 @@ window.onload = function(){ //Acciones tras cargar la página
   function borradoParcial() {
           pantalla.innerHTML=0; //Borrado de pantalla;
           x=0; //Borrado indicador número pantalla.
-          coma=0;	//reiniciamos también la coma				
+          coma=0;	//reiniciamos también la coma	j			
           }
   function borradoTotal() {
            pantalla.innerHTML=0; //poner pantalla a 0
